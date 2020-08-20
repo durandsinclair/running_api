@@ -20,3 +20,7 @@ http://127.0.0.1/predicted_run_time?alpha=1.06&predicted_run_distance=10&known_r
 ```
 which should return the predicted run time over 10 km when running 1km took 300
 seconds.
+
+## More information
+More information on how to do this sort of thing can be found here:
+https://medium.com/tmobile-tech/using-docker-to-deploy-an-r-plumber-api-863ccf91516d
